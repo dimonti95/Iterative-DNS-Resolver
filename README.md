@@ -6,5 +6,5 @@ I imported the org.xbill.DNS package from the library.
 Download: http://www.dnsjava.org/  
   
 How to run:  
-
-
+(1) From the command line navigate to the project.
+(2) To run: java -jar mydig <domain name> (EX: java -jar mydig google.com)
