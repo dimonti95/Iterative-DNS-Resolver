@@ -9,7 +9,7 @@ public class MyDig {
 
         if(args.length < 1) {
             System.out.println("Invalid no. of arguments");
-            //System.exit(1);
+            System.exit(1);
         }
 
         /*
